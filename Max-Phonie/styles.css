@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"id": 14,
+"stuId": 4550,
+"name": "Marvelous Ejiogu",
+"track": "Frontend Engineering",
+"circle": 313,
+"img": "https://avatars.githubusercontent.com/u/104576133?s=96&v=4",
+
+"description": {
+  "intro": "I'm a software engineer, a Virtual Assistant and an Entrepreneur",
+  "introdetails": "I am passionate about learning, sharing knowlegde, web development and data science. I'm interested in making connections."
+},
+
+"socialmedia": {
+  "linkedin": "https://www.linkedin.com/in/marvelous-ejiogu",
+  "github": "https://github.com/Marvy-E",
+  "twitter": "https://twitter.com/Ejii_baby",
+  "portfolio": "https://github.com/Achele",
+  "slackHandle": "Marvelous Ejiogu"
+},
+
+"project": {
+  "first": {
+    "projectname": "qr-code-component",
+    "projectdescription": "This was my first HTML and CSS project. It is a simple design that shows a qr code.",
+    "projectlink": "https://marvy-e.github.io/qr-code-component/"
+  },
+  "second": {
+    "projectname": "Calculator",
+    "projectdescription": "This was my first Javascript project. I was able to implement basic HTML, CSS and Javascript knowledge while building this project which can do basic calculations.",
+    "projectlink": "https://marvy-e.github.io/Calculator/"
+  },
+
+  "third": {
+    "projectname": "nft-preview-card-component",
+    "projectdescription": "I built this to learn how to implement active states in CSS.",
+    "projectlink": "https://marvy-e.github.io/nft-preview-card-component-main/"
+  }
+}
+},
